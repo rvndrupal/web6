@@ -8,4 +8,4 @@ Pueden hacer lo que quieran...
 
 Se hacen cambios en el github favor de descargarlos
 
- Se hace un cambio sin bajar el heroe desde git hub
+Se hace un cambio sin bajar el heroe desde git hub
